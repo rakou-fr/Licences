@@ -1,3 +1,0 @@
-balint:kis
-admin:root
-hugo:truc
